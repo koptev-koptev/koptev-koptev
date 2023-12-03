@@ -2,7 +2,9 @@
 
 **Get in touch:**
 
-![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973) ![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)
+![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973) 
+![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)
+![Static Badge](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red)
 
 - 🤓 I'm Python Backend Developer
 - 💬 Let's talk about Software Architecture, Code Style, Security, Development Patterns.
