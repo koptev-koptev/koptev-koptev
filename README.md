@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Mikhail! 🦦
+# Hello there 👋, I'm Mikhail! 💪
 
 **Get in touch:**
 
