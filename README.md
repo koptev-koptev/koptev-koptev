@@ -1,6 +1,7 @@
 # Hello there 👋, I'm Mikhail! 🦦
 
 **Get in touch:**
+
 ![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973) ![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)
 
 - 🤓 I'm Python Backend Developer
@@ -9,6 +10,7 @@
 - 🏚️ Now based in **St-Petersburg** ru
 
 **Professional skils:**
+
 ![Static Badge](https://img.shields.io/badge/Python-black?logo=Python)
 ![Static Badge](https://img.shields.io/badge/Linux-black?logo=Linux)
 ![Static Badge](https://img.shields.io/badge/VSCode-black?logo=Visual%20Studio%20Code&logoColor=blue)
