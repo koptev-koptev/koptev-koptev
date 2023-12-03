@@ -1,8 +1,7 @@
 # Hello there 👋, I'm Mikhail! 🦦
 
 **Get in touch:**
-
-[![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973)] [![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)]
+![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973) ![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)
 
 - 🤓 I'm Python Backend Developer
 - 💬 Let's talk about Software Architecture, Code Style, Security, Development Patterns.
@@ -10,18 +9,18 @@
 - 🏚️ Now based in **St-Petersburg** ru
 
 **Professional skils:**
-[![Static Badge](https://img.shields.io/badge/Python-black?logo=Python)]
-[![Static Badge](https://img.shields.io/badge/Linux-black?logo=Linux)]
-[![Static Badge](https://img.shields.io/badge/VSCode-black?logo=Visual%20Studio%20Code&logoColor=blue)]
-[![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=blue)]
-[![Static Badge](https://img.shields.io/badge/Nginx-black?logo=Nginx&logoColor=green)]
-[![Static Badge](https://img.shields.io/badge/Git-black?logo=Git&logoColor=orange)]
-[![Static Badge](https://img.shields.io/badge/Docker-black?logo=Docker&logoColor=blue)]
-[![Static Badge](https://img.shields.io/badge/Gunicorn-black?logo=Gunicorn&logoColor=green)]
-[![Static Badge](https://img.shields.io/badge/Django-black?logo=Django&logoColor=white)]
-[![Static Badge](https://img.shields.io/badge/JWT-black?logo=JSON%20Web%20Tokens&logoColor=red)]
-[![Static Badge](https://img.shields.io/badge/Postman-black?logo=Postman&logoColor=orange)]
-[![Static Badge](https://img.shields.io/badge/Telegram_API-black?logo=Telegram&logoColor=blue)]
+![Static Badge](https://img.shields.io/badge/Python-black?logo=Python)
+![Static Badge](https://img.shields.io/badge/Linux-black?logo=Linux)
+![Static Badge](https://img.shields.io/badge/VSCode-black?logo=Visual%20Studio%20Code&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Nginx-black?logo=Nginx&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Git-black?logo=Git&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/Docker-black?logo=Docker&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Gunicorn-black?logo=Gunicorn&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Django-black?logo=Django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JWT-black?logo=JSON%20Web%20Tokens&logoColor=red)
+![Static Badge](https://img.shields.io/badge/Postman-black?logo=Postman&logoColor=orange)
+![Static Badge](https://img.shields.io/badge/Telegram_API-black?logo=Telegram&logoColor=blue)
 
 ## Some of my Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=koptev-koptev)](https://github.com/ryo-ma/github-profile-trophy)
