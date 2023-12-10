@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/MikhailKoptev-blue?logo=vk&link=https%3A%2F%2Fvk.com%2Fid4212973) 
 ![Static Badge](https://img.shields.io/badge/Git-Koptev-blue?logo=Github&color=gray&cacheSeconds=gray&link=https%3A%2F%2Fgithub.com%2Fkoptev-koptev)
 ![Static Badge](https://img.shields.io/badge/Inst-MihalisPR-black?logo=Instagram&logoColor=red&labelColor=black&color=black)
-![Static Badge](https://www.codewars.com/users/koptev-koptev/badges/micro?logo=vk&link=https%3A%2F%2Fcodewars.com%2Fusers%2Fkoptev-koptev)
+![Static Badge](https://codewars.com/users/koptev-koptev/badges/micro?logo=vk&link=https%3A%2F%2Fcodewars.com%2Fusers%2Fkoptev-koptev)
 
 - 🤓 I'm Python Backend Developer
 - 💬 Let's talk about Software Architecture, Code Style, Security, Development Patterns.
