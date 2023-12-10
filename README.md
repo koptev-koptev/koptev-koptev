@@ -31,5 +31,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=koptev-koptev)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koptev-koptev)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koptev-koptev&show_icons=true&count_private=true)
-![Codewars](https://github.r2v.ch/codewars?user=koptev-koptev)
+![Codewars](https://github.r2v.ch/codewars?user=koptev-koptev&theme=gradient_light)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=koptev-koptev)
