@@ -28,8 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/Telegram_API-black?logo=Telegram&logoColor=blue)
 
 ## Some of my Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=koptev-koptev)](https://github.com/koptev-koptev/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koptev-koptev)](https://github.com/koptev-koptev/github-readme-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=koptev-koptev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koptev-koptev)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koptev-koptev&show_icons=true&count_private=true)
 ![Codewars](https://github.r2v.ch/codewars?user=koptev-koptev&theme=gradient_light)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=koptev-koptev)
